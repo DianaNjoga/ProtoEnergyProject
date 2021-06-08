@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proto Energy</string>
+    <string name="by_cancelled">By Cancelled</string>
+    <string name="by_pending">By Pending</string>
+    <string name="filter">Filter</string>
+    <string name="show_all">Show all</string>
+</resources>
